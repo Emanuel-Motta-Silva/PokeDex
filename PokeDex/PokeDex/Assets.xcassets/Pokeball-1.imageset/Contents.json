@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Pokeball.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
